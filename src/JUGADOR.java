@@ -61,7 +61,5 @@ public class JUGADOR {
 
         scanner.close();
 
-
-
     }
 }
