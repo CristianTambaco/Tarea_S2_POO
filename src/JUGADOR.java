@@ -48,7 +48,7 @@ public class JUGADOR {
 
         jugador jugador2 = equipo.new jugador( nombre2, posicion2, edad2, numeroCamiseta2 );
         //Datos quemados jugador 3
-        jugador jugador3 = equipo.new jugador("Neymar Jr", "Delantero", 31, 11 );
+        jugador jugador3 = equipo.new jugador("Lionel Messi", "Delantero", 36, 10 );
 
         System.out.println("\nInformacion de los jugadores: ");
         jugador1.mostrarInfo();
