@@ -30,7 +30,7 @@ public class JUGADOR {
         Scanner scanner = new Scanner(System.in);
         JUGADOR equipo = new JUGADOR(); //Crear instancia de JUGADOR
 
-        jugador jugador1 = equipo.new jugador("Neymar Jr", "Delantero", 31, 11);
+        jugador jugador1 = equipo.new jugador("Cristiano Ronaldo", "Delantero", 39, 7);
 
         System.out.println("Ingrese el nombre del segundo jugador: ");
         String nombre2 = scanner.nextLine();
